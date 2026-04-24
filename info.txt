@@ -4,4 +4,4 @@ Section: ELC-1A
 Why programming is important for me:
 Programming is fundamental to my educational experience since it provides the backbone language of the current digital world.
 Through programming, I learn more than just the syntax; I develop problem-solving skills and logical reasoning capabilities that will enable me to create solutions and models to problems in the field of Electronics and Computing, where my major is.
-In other words, I gain the ability to transform raw data into business intelligence through coding, which allows me to transition from problem identification to solution engineering.
+In other words, I gain the ability to transform raw data into business intelligence through coding, which allows me to transition from problem identification to solution engineering.Additionally im excited to build comprehensive coding skills and apply them to my future projects
